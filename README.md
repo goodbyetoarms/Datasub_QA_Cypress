@@ -11,8 +11,9 @@
 
 ```bash
 npm install
-npm run test        # Headless
+npm run test   # Headless
 npm run test:open   # UI
+```
 
 ### Тесты
 - Успешная отправка полной формы
