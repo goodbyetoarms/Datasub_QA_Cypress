@@ -2,11 +2,10 @@
     "name": "datasub-qa-cypress",
     "version": "1.0.0",
     "devDependencies": {
-      "cypress": "^13.0.0"
+        "cypress": "^13.17.0"
     },
     "scripts": {
-      "test": "cypress run",
-      "test:open": "cypress open"
+        "test": "cypress run",
+        "test:open": "cypress open"
     }
-  }
-  
+}
